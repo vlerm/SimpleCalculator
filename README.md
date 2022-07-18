@@ -2,6 +2,9 @@
 
 ![Text](./screenshots/photoCalculator.png)
 ![Text](./screenshots/photoCalculator.png)
+![Text](./screenshots/photoCalculator.png)
+![Text](./screenshots/photoCalculator.png)
+![Text](./screenshots/photoCalculator.png)
 
 ## Description
 
