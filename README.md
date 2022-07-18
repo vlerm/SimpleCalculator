@@ -1,6 +1,6 @@
 # Simple Calculator
 
-![Text](./screenshots/presentationApp.pdf)
+![Text](./screenshots/presentationApplication.png)
 
 ## Description
 
