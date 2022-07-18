@@ -1,9 +1,6 @@
 # Simple Calculator
 
-![Text](./screenshots/photoCalculator.png)
-![Text](./screenshots/photoCalculator.png)
-![Text](./screenshots/photoCalculator.png)
-
+![Text](./screenshots/presentationApp.pdf)
 
 ## Description
 
